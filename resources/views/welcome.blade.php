@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Welcome to SS Family
                 </div>
 
                 <div class="links">
